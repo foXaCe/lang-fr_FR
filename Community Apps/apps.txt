@@ -165,7 +165,7 @@ Community Applications Changelog=Changelog des Applications Communautaires
 ; Categories try not to be excessively long This is displayed on the left of CA screen
 
 Backup=Sauvegarde
-Cloud=Nuage
+Cloud=Cloud
 Downloaders=Téléchargeurs
 Game Servers=Serveurs de Jeux
 Home Automation=Domotique
@@ -173,7 +173,7 @@ Media Applications=Applications Media
 Books=Livres
 Music=Musique
 Photos=Photos
-Video=Video
+Video=Vidéo
 Other=Autre
 Media Servers=Serveurs Media
 Network Services=Services Réseau
@@ -187,7 +187,7 @@ VPN=VPN
 Web=Web
 Productivity=Productivité
 Security=Sécurité
-Tools Utilities=Outils / Utilitaires
+Tools Utilities=Outils Utilitaires
 System=Système
 Themes=Thêmes
 Utilities=Utilitaires
@@ -223,7 +223,7 @@ ToolsThemes=Outils:Thêmes
 ToolsUtilities=Outils:Utilitaires
 Other=Autres
 OtherUncategorized=Autres:Non-catégorisé
-and %s more=Et %s de plus
+and %s more=et %s de plus
 
 ; App Popup Related
 Donate To Author=Faire un Don a l'Auteur
@@ -246,7 +246,7 @@ Ranked #%s=Coté #%s
 ; as in Trending up or down arrow
 Trending %s=Tendance %s
 ; as in As of some date
-As of %s=(Depuis %s)
+As of %s=À partir de %s
 This application template has been blacklisted=Cette application ou modèle a été mise sur la liste noire
 This application template has been deprecated=Cette application ou modèle a été dépréciée
 This application is not compatible with your version of unRaid=Cette application n'est pas comptible avec votre version de unRaid
